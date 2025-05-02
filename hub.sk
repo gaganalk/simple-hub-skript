@@ -1,0 +1,38 @@
+# +==================================================+
+# |                 Simple /Hub Skript             |
+# |               By ArX Studios × gaganalk        |
+# +================================================|=+
+# | This Skript redirects players to the Hub       |
+# | server using the command "joinq hub".          |
+# |                                                |
+# |  If you're using any command hider plugins     |
+# | like CommandWhitelist or PL-Hide, make sure    |
+# | to whitelist the following commands:           |
+# |        /hub, /lobby, /server                   |
+# |                                                |
+# |  You can change "joinq hub" to your own        |
+# | plugin's server join command, e.g:             |
+# |    "server hub" for Bungee setups.             |
+# +==================================================+
+
+command /hub:
+    trigger:
+    # Change to "server hub" if you're not using ajqueue
+        execute player command "joinq hub"
+        send "&7Sending you to the <##C1E1FF>Hub Server!"
+        send action bar "&7Sending you to the <##C1E1FF>Hub Server!"
+        play sound "block.note_block.banjo" to player
+
+command /lobby:
+    trigger:
+        execute player command "joinq hub"
+        send "&7Sending you to the <##C1E1FF>Hub Server!"
+        send action bar "&7Sending you to the <##C1E1FF>Hub Server!"
+        play sound "block.note_block.banjo" to player
+
+command /server hub:
+    trigger:
+        execute player command "joinq hub"
+        send "&7Sending you to the <##C1E1FF>Hub Server!"
+        send action bar "&7Sending you to the <##C1E1FF>Hub Server!"
+        play sound "block.note_block.banjo" to player
