@@ -71,15 +71,16 @@ Players receive:
 - **Discord:** `gaganalk`
 
 ---
-
+<p align="center">
 ### ☄️ Test Server
-
+</p>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1335314422368833608/1367808664135794698/RCy5Uj4.png?ex=6815ee96&is=68149d16&hm=d9868eb5a5470d5e96121b52b929aa303007f26f6201eaf81c37f5e072f8ffab&=&width=817&height=460" alt="banner"/>
+</p>
 
-
-- PVP.AUREX.LK
-- [Aurex PvP Discord](https://discord.gg/aurexpvp/)
-- tnx to @minecry for the banner <3
+<p align="center">
+ PVP.AUREX.LK
+ [Aurex PvP Discord](https://discord.gg/aurexpvp/)
+ tnx to @minecry for the banner <3
 </p>
 
