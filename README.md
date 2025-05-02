@@ -3,7 +3,7 @@
 </p>
 
 # ⛩ Simple /Hub Skript
-A simple Skript that Send players to your **Hub/Lobby** server using commands like /hub, /lobby, and /server hub.  
+A simple Skript that Sends players to your **Hub/Lobby** server using commands like /hub, /lobby, and /server hub.  
 Created by **ArX Studios / gaganalk**
 
 ## 🔧 Features
@@ -25,7 +25,7 @@ Created by **ArX Studios / gaganalk**
 If you're using plugins like:
 - **CommandWhitelist**
 - **PL-Hide**
-- Or any command/plugin hiding plugin.
+ Or any command/plugin hiding plugin.
 
 **You must whitelist the following commands**:
 ```
@@ -69,3 +69,13 @@ Players receive:
 - **Author:** [gaganalk](https://github.com/gaganalk)
 - **Team:** ArX Studios
 - **Discord:** `gaganalk`
+
+---
+
+<p align="center">
+## ☄️ Test Server
+
+- PVP.AUREX.LK
+  <img src="https://media.discordapp.net/attachments/1335314422368833608/1367808664135794698/RCy5Uj4.png?ex=6815ee96&is=68149d16&hm=d9868eb5a5470d5e96121b52b929aa303007f26f6201eaf81c37f5e072f8ffab&=&width=817&height=460" alt="banner"/>
+
+</p>
