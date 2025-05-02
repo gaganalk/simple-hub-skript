@@ -77,8 +77,8 @@ Players receive:
 </p>
 
 <p align="center">
-  <code>PVP.AUREX.LK</code> · 
+  <code>➜ PVP.AUREX.LK ⬅</code> · 
   <a href="https://discord.gg/aurexpvp/">Aurex PvP Discord</a> · 
-  <i>Thanks to <b>@minecry</b> for the banner ❤️</i>
+  <i>Thanks to <b>@minecry</b> for the banner <3</i>
 </p>
 
