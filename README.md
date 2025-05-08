@@ -73,7 +73,7 @@ Players receive:
 ---
 <p align="center">
   <strong>☄️ Test Server ☄️</strong><br><br>
-  <img src="https://imgur.com/sMRU0yY" alt="Banner"/>
+  <img src="https://imgur.com/seoeyCU" alt="Banner"/>
 </p>
 
 <p align="center">
