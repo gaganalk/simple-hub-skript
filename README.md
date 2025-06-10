@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/sMRU0yY" alt="banner"/>
+  <img src="https://media.discordapp.net/attachments/1281345499256983614/1367922666161573990/GuF7VP5.png?ex=68491a82&is=6847c902&hm=8cfff0da3da82bbb2872eb8f24569eb4665d1df87527f23c0685cb561eb0b1be&=" alt="banner"/>
 </p>
 
 # ⛩ Simple /Hub Skript
